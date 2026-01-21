@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Coffee cup - bigger and orange -->
+  <path d="M 15 20 
+           L 15 75 
+           Q 15 80 20 80 
+           L 60 80 
+           Q 65 80 65 75 
+           L 65 20 
+           Z" 
+        fill="#FF4500" 
+        stroke="#0F172A" 
+        stroke-width="3"/>
+  
+  <!-- Coffee liquid -->
+  <ellipse cx="40" cy="20" rx="20" ry="2.5" fill="#0F172A"/>
+  
+  <!-- Cup handle - elegant curve -->
+  <path d="M 65 30 
+           Q 82 30 85 50 
+           Q 82 70 65 70" 
+        fill="none" 
+        stroke="#FF4500" 
+        stroke-width="5" 
+        stroke-linecap="round"/>
+  <path d="M 65 30 
+           Q 80 30 83 50 
+           Q 80 70 65 70" 
+        fill="none" 
+        stroke="#0F172A" 
+        stroke-width="3" 
+        stroke-linecap="round"/>
+  
+  <!-- Subtle steam -->
+  <path d="M 25 8 Q 25 3 28 1" 
+        fill="none" 
+        stroke="#0F172A" 
+        stroke-width="2.5" 
+        stroke-linecap="round" 
+        opacity="0.4"/>
+  <path d="M 40 8 Q 40 3 43 1" 
+        fill="none" 
+        stroke="#0F172A" 
+        stroke-width="2.5" 
+        stroke-linecap="round" 
+        opacity="0.4"/>
+  <path d="M 55 8 Q 55 3 58 1" 
+        fill="none" 
+        stroke="#0F172A" 
+        stroke-width="2.5" 
+        stroke-linecap="round" 
+        opacity="0.4"/>
+</svg>
